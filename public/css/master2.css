@@ -1,0 +1,160 @@
+/*
+F7F6F2
+FEFBF3
+*/
+.navbar
+{
+    text-transform: uppercase;
+    box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+
+.fa-logo-edit
+{
+    font-size: 17px;
+}
+.body
+{
+    background-color: #EFEFEF;
+}
+.hr-margin-top
+{
+    margin-top: -3%;
+    margin-bottom: -6%;
+}
+.social-media a 
+{
+    text-decoration: none;
+    color: black;
+}
+.fa-margin-right
+{
+    margin-right: 11px;
+}
+.inner-background-color
+{
+    background-color: #FEFBF3;
+}
+.box
+{
+    position: relative;
+}
+.movies a
+{
+    text-decoration: none;
+    color: black;
+}
+.movie-container a
+{
+    color: black;
+    text-decoration: none;
+}
+.movie-title
+{
+    font-size: 1rem;
+    text-align: center;
+    height: 48px;
+    font-weight: 600;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* number of lines to show */
+    -webkit-box-orient: vertical;
+    
+}
+.rating-edit
+{
+    font-size: 1rem;
+    color: #FFB319;
+}
+.mmt
+{
+    margin-top: 3%;
+}
+.links-movies
+{
+    font-size: .80rem;
+}
+.sec-container a
+{
+    
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.links-movies a
+{
+    text-align: center;
+    font-size: 0.7rem;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    text-decoration: none;
+    font-weight: 600;
+    
+}
+.links-movies a:hover
+{
+    background-color: #EFEFEF;
+}
+hr
+{
+    margin: 0;
+    padding: 0;
+}
+.sticky-css
+{
+    position: sticky;
+    top: 0;
+}
+.pag-links a
+{
+    text-decoration: none;
+    color: white;
+}
+.pag-links i
+{
+    font-size: 20px;
+}
+
+.search-container input
+{
+    text-transform: uppercase;
+    border: none;
+    width: 90%;
+    color: black;
+}
+.search-container input:focus
+{
+    outline: none;
+}
+.movie-name, .movie-genre
+{
+    background-color: white;
+}
+.fa-bars
+{
+    margin-top: 6px;
+}
+.search-btn
+{
+    background-color: black;
+
+}
+.search-btn button
+{
+    color: white;
+    text-align: center;
+}
+.search-btn button:hover
+{
+    color: white;
+}
+.dropdown-menu li
+{
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+.dropdown-menu li:hover
+{
+    background-color: #EFEFEF;
+}

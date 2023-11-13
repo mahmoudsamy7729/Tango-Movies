@@ -1,0 +1,63 @@
+.header
+{
+    background-color: #232323;
+}
+.logo a
+{
+    text-decoration: none;
+}
+.logo span
+{
+    font-size: 25px;
+    text-transform: uppercase;
+}
+.logo span i
+{
+    font-size: 23px;
+}
+.logo span:nth-child(1)
+{
+    
+    color: white;
+}
+.logo span:nth-child(2)
+{
+    font-weight: bold;
+    color: #AA3A3A;
+}
+.logo span:nth-child(3)
+{
+    color: white;
+}
+.body
+{
+    color: white;
+    background-color: #0b0b0e;
+}
+.navbar-nav
+{
+    text-transform: uppercase;
+}
+.img-edit
+{
+    width: 100%;
+    height: auto;
+}
+.img-container
+{
+    width: 80%;
+}
+.row.movie-details
+{
+    margin-top: -6%;
+    text-transform: uppercase;
+}
+.movie-title
+{
+    text-transform: uppercase;
+    font-family: Comic Sans MS, Comic Sans, cursive ;
+}
+h5
+{
+    text-transform: uppercase;
+}
